@@ -1,9 +1,4 @@
-//********************************************
-//Operating Systems
-//ECSE 427
-//Name: Omar Ba mashmos
-// student ID#: 260617216
-//*********************************************
+
 
 #include "sfs_api.h"
 #include <errno.h>
